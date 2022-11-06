@@ -8,3 +8,5 @@ when a chemotherapy treatment is administered to the patient.
 It has been possible to develop a multilevel and multioutput
 model with crossvalidation to extract information from molecular markers with a good precision
 of around 94%. 
+
+https://github.com/emmAnalyticsCoach/Multilevel-and-Multioutput-ML-model/blob/main/Multiouput%20and%20multilevel.pdf
